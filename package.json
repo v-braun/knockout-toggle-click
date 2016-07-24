@@ -1,0 +1,23 @@
+{
+  "name": "knockout-toggle-click",
+  "version": "1.0.0",
+  "description": "Knockout JS toggle binding handler for click events",
+  "main": "index.js",
+  "repository": "v-braun/knockout-toggle-click",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "knockout",
+    "bindinghandler"
+  ],
+  "author": {
+    "name": "Viktor Braun (@v_b)",
+    "email": "v-braun@live.de",
+    "url": "www.dev-things.net"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "knockout": "^3.4.0"
+  }
+}
